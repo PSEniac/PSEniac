@@ -36,18 +36,18 @@ I'm a young Brazilian, graduated in computer engineering and passionate about te
   </a>
 </p>
 
-<h2 align="center">Visitors :bar_chart:</h2>
+<h2 align="center">Stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's</h4>
+<h4 align="center"> Visitors count</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{PSEniac}/count.svg" alt="PSEniac :: Visitor's Count" /></p>
 
 <h4 align="center">Langs ⚛️:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSEniac&langs_count=10&theme=tokyonight&layout=compact" alt="PSEniac :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PSEniac&langs_count=10&theme=tokyonight&layout=compact" alt="PSEniac :: Top Langs" /></p>
 
 <h4 align="center">Profile stats 📊:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PSEniac&show_icons=true&theme=cobalt" alt="PSEniac :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PSEniac&show_icons=true&theme=cobalt" alt="PSEniac :: Profile Stats" /></p>
 
 <p align="center"><img src="https://tenor.com/pt-BR/view/the-matrix-reloaded-matrix-reloaded-neo-keanu-reeves-gif-4011236.gif" alt="Matrix" height="300" width="500"></p>
